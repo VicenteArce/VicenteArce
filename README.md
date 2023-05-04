@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
 <h1 align="center"> Hi 👋, I'm Vicente Arce <h1>
+ <p>I'm a Software Engineer student, stuying at Universidad de Santiago de Chile.<br>
+ mail: vicente.arce.p@usach.cl</p>
  
 
 
