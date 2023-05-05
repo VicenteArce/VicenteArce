@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Vicente Arce <h1>
  <p align="center">I'm a Software Engineer student, stuying at Universidad de Santiago de Chile.<br>
- mail: vicente.arce.p@usach.cl</p>
+vicente.arce.p@usach.cl</p>
 
 
 
