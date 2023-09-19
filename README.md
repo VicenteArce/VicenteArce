@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Vicente Arce <h1>
+<h1 align="center"> Hi, I'm Vicente Arce <h1>
  <p align="center">I'm a Software Engineer student, stuying at Universidad de Santiago de Chile.<br>
 vicente.arce.p@usach.cl</p>
 
