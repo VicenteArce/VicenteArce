@@ -2,6 +2,13 @@
  <p align="center">I'm a Software Engineer student, stuying at Universidad de Santiago de Chile.<br>
 vicente.arce.p@usach.cl</p>
 
+## 💻 Lenguajes más utilizados
+<p align="center">
+  <a href="https://github.com/VicenteArce">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteArce&layout=compact&theme=radical" />
+  </a>
+</p>
+
 
 
 
