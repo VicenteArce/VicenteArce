@@ -1,14 +1,21 @@
 <h1 align="center"> Hi, I'm Vicente Arce <h1>
- <p align="center">I'm a Software Engineer student, stuying at Universidad de Santiago de Chile.<br>
+ <p align="center"> Actualmente estoy estudiando Ingenieria civil en Informática en Universidad de Santiago de Chile.<br>
 vicente.arce.p@usach.cl</p>
 
-## 💻 Lenguajes más utilizados
+## Lenguajes más utilizados
 <p align="center">
   <a href="https://github.com/VicenteArce">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteArce&layout=compact&theme=radical" />
   </a>
 </p>
 
+
+## Contribuciones
+<p align="center">
+  <a href="https://github.com/VicenteArce">
+    <img src="https://github-readme-stats.vercel.app/api?username=VicenteArce&show_icons=true&theme=radical" />
+  </a>
+</p>
 
 
 
