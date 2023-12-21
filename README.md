@@ -1,6 +1,6 @@
 ## Hola, Soy Vicente Arce!!!
 
-- 🌱 Me encuentro estudiando Ingenieria civil en Informatica en Universidad de Santiago de Chile
+- 🌱 Me encuentro estudiando Ingenieria civil en Informatica en la Universidad de Santiago de Chile
 - 🌐 Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/vicente-arce-palacios-911b4a267/) o en mi cuenta personal de [Instagram](https://www.instagram.com/_.v.xcente._/)
 - 📫 Puedes contactarme a traves de mi correo electronico vicente.arce.p@usach.cl  
 
