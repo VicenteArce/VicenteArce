@@ -18,10 +18,6 @@ A continuación se encuentran las herramientas con las cuales he tenido la oport
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 </div>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteArce&layout=donut)
-![gitHubStats](https://github-readme-stats.vercel.app/api?username=VicenteArce&show_icons=true&theme=transparent)
-
-
 
 
 
