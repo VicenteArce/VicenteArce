@@ -1,4 +1,5 @@
-<h2 align="left">Hola, Soy Vicente Arce!!</h3>
+<h2 align="left">Hola, Soy Vicente Arce!!</h2>
+
 - 🌱 Me encuentro estudiando Ingenieria civil en Informatica en Universidad de Santiago de Chile
 - 🌐 Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/vicente-arce-palacios-911b4a267/) o en mi cuenta personal de [Instagram](https://www.instagram.com/_.v.xcente._/)
 - 📫 Puedes contactarme a traves de mi correo electronico vicente.arce.p@usach.cl  
@@ -16,6 +17,9 @@ A continuación se encuentran las herramientas con las cuales he tenido la oport
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 </div>
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteArce&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![gitHubStats](https://github-readme-stats.vercel.app/api?username=VicenteArce&show_icons=true&theme=transparent)
 
 
 
